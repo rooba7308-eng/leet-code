@@ -6,6 +6,7 @@ git hub is good
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rooba7308-eng/leet-code/tree/master/0014-longest-common-prefix) |
 | [0169-majority-element](https://github.com/rooba7308-eng/leet-code/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -32,4 +33,9 @@ git hub is good
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rooba7308-eng/leet-code/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/rooba7308-eng/leet-code/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rooba7308-eng/leet-code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
