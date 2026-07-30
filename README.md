@@ -10,6 +10,7 @@ git hub is good
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rooba7308-eng/leet-code/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/rooba7308-eng/leet-code/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -23,4 +24,12 @@ git hub is good
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rooba7308-eng/leet-code/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/rooba7308-eng/leet-code/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/rooba7308-eng/leet-code/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
