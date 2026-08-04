@@ -7,6 +7,7 @@ git hub is good
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rooba7308-eng/leet-code/tree/master/0014-longest-common-prefix) |
+| [0136-single-number](https://github.com/rooba7308-eng/leet-code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rooba7308-eng/leet-code/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -44,4 +45,8 @@ git hub is good
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rooba7308-eng/leet-code/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/rooba7308-eng/leet-code/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
