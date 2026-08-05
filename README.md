@@ -54,4 +54,12 @@ git hub is good
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rooba7308-eng/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rooba7308-eng/leet-code/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rooba7308-eng/leet-code/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
