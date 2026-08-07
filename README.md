@@ -9,6 +9,7 @@ git hub is good
 | [0014-longest-common-prefix](https://github.com/rooba7308-eng/leet-code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rooba7308-eng/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rooba7308-eng/leet-code/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rooba7308-eng/leet-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/rooba7308-eng/leet-code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rooba7308-eng/leet-code/tree/master/0169-majority-element) |
 ## Hash Table
@@ -82,4 +83,8 @@ git hub is good
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rooba7308-eng/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rooba7308-eng/leet-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
