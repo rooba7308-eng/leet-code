@@ -10,6 +10,7 @@ git hub is good
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rooba7308-eng/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rooba7308-eng/leet-code/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rooba7308-eng/leet-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/rooba7308-eng/leet-code/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/rooba7308-eng/leet-code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rooba7308-eng/leet-code/tree/master/0169-majority-element) |
 ## Hash Table
@@ -87,4 +88,5 @@ git hub is good
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rooba7308-eng/leet-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/rooba7308-eng/leet-code/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
