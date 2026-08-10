@@ -36,6 +36,7 @@ git hub is good
 | ------- |
 | [0013-roman-to-integer](https://github.com/rooba7308-eng/leet-code/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/rooba7308-eng/leet-code/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/rooba7308-eng/leet-code/tree/master/0067-add-binary) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ git hub is good
 | [0020-valid-parentheses](https://github.com/rooba7308-eng/leet-code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rooba7308-eng/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/rooba7308-eng/leet-code/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/rooba7308-eng/leet-code/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
@@ -55,6 +57,7 @@ git hub is good
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rooba7308-eng/leet-code/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/rooba7308-eng/leet-code/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
@@ -91,4 +94,8 @@ git hub is good
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rooba7308-eng/leet-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rooba7308-eng/leet-code/tree/master/0035-search-insert-position) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/rooba7308-eng/leet-code/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
