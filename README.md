@@ -20,6 +20,7 @@ git hub is good
 | ------- |
 | [0013-roman-to-integer](https://github.com/rooba7308-eng/leet-code/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/rooba7308-eng/leet-code/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/rooba7308-eng/leet-code/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -41,6 +42,7 @@ git hub is good
 | [0067-add-binary](https://github.com/rooba7308-eng/leet-code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rooba7308-eng/leet-code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rooba7308-eng/leet-code/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/rooba7308-eng/leet-code/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -71,6 +73,7 @@ git hub is good
 | [0027-remove-element](https://github.com/rooba7308-eng/leet-code/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rooba7308-eng/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/rooba7308-eng/leet-code/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/rooba7308-eng/leet-code/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
@@ -129,4 +132,8 @@ git hub is good
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rooba7308-eng/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/rooba7308-eng/leet-code/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
