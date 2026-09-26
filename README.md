@@ -15,12 +15,14 @@ git hub is good
 | [0088-merge-sorted-array](https://github.com/rooba7308-eng/leet-code/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/rooba7308-eng/leet-code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rooba7308-eng/leet-code/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rooba7308-eng/leet-code/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rooba7308-eng/leet-code/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/rooba7308-eng/leet-code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rooba7308-eng/leet-code/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/rooba7308-eng/leet-code/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -30,6 +32,7 @@ git hub is good
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rooba7308-eng/leet-code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rooba7308-eng/leet-code/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rooba7308-eng/leet-code/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
