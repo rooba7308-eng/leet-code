@@ -58,6 +58,7 @@ git hub is good
 | [0058-length-of-last-word](https://github.com/rooba7308-eng/leet-code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/rooba7308-eng/leet-code/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/rooba7308-eng/leet-code/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/rooba7308-eng/leet-code/tree/master/0257-binary-tree-paths) |
 ## Trie
 |  |
 | ------- |
@@ -130,16 +131,23 @@ git hub is good
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rooba7308-eng/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/rooba7308-eng/leet-code/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rooba7308-eng/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/rooba7308-eng/leet-code/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rooba7308-eng/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/rooba7308-eng/leet-code/tree/master/0257-binary-tree-paths) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/rooba7308-eng/leet-code/tree/master/0202-happy-number) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/rooba7308-eng/leet-code/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
